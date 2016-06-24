@@ -1,0 +1,36 @@
+{
+  "name": "angular2-for-beginners-starter",
+  "description": "Starter Kit for Angular 2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1 ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhades/angular2-for-beginners-starter.git"
+  },
+  "author": "JhadesDev <jhades.dev@gmail.com> (http://blog.jhades.org/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhades/angular2-for-beginners-starter/issues"
+  },
+  "homepage": "https://github.com/jhades/angular2-for-beginners-starter#readme",
+  "dependencies": {
+    "@angular/common": "2.0.0-rc.3",
+    "@angular/compiler": "2.0.0-rc.3",
+    "@angular/core": "2.0.0-rc.3",
+    "@angular/http": "2.0.0-rc.3",
+    "@angular/platform-browser": "2.0.0-rc.3",
+    "@angular/platform-browser-dynamic": "2.0.0-rc.3",
+    "@angular/forms": "0.1.1",
+    "@angular/router": "3.0.0-alpha.7",
+    "reflect-metadata": "0.1.3",
+    "rxjs": "5.0.0-beta.6",
+    "zone.js": "0.6.12"
+  },
+  "devDependencies": {
+    "http-server": "0.9.0"
+  }
+}
