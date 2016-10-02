@@ -1,6 +1,13 @@
 
+
+
 import {Component} from "@angular/core";
-import {bootstrap} from "@angular/platform-browser-dynamic";
+import {NgModule} from "@angular/core";
+import {platformBrowserDynamic} from "@angular/platform-browser-dynamic";
+import {BrowserModule} from "@angular/platform-browser";
+
+
+
 
 @Component({
     selector:'my-app',
@@ -9,7 +16,18 @@ import {bootstrap} from "@angular/platform-browser-dynamic";
 export class HelloWorld {
 
 
+}
+
+ 
+@NgModule({
+    declarations: [HelloWorld],
+    imports: [BrowserModule],
+    bootstrap: [HelloWorld]
+})
+export class AppModule {
 
 }
 
-bootstrap(HelloWorld);
+platformBrowserDynamic().bootstrapModule(AppModule);
+
+
