@@ -8,7 +8,7 @@ This playground provides a save-and-refresh-just-works development environment w
 The playground has minimal dependencies,  you only need node and npm installed on your machine. 
 These are some tutorials to install node in different operating systems. 
 
-*Make sure to install the latest version of Node 6*
+*Make sure to install the latest version of Node*
 
 - [Install Node and NPM on Windows](https://www.youtube.com/watch?v=8ODS6RM6x7g)
 - [Install Node and NPM on Linux](https://www.youtube.com/watch?v=yUdHk-Dk_BY)
