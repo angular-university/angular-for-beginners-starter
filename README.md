@@ -30,7 +30,7 @@ To start the server, run the following command:
 
 npm start
 
-If you now go to [http://localhost:8080](http://localhost:8080), there should be a running application there. Again please do not hesitate to post a question in Udemy if its not.
+If you now go to [http://localhost:8080](http://localhost:8080), there should be a running application there. Again please do not hesitate to post a question in the comments section.
 
 # Making changes
 
