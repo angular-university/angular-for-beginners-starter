@@ -1,5 +1,5 @@
-# Angular 2 For Beginners Playground
-A playground for Getting Started with Angular 2.
+# Angular 2 + For Beginners Playground
+A playground for Getting Started with the Angular 2 + framework.
 
 # Installation pre-requisites
 
