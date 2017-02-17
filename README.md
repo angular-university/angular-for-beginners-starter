@@ -1,6 +1,8 @@
 # Angular 2 + For Beginners Playground
 A playground for Getting Started with the Angular 2 + framework.
 
+This playground provides a save-and-refresh-just-works development environment with minimal dependencies and no build running on the background, its ideally suited for beginners just starting with the framework.
+
 # Installation pre-requisites
 
 The playground has minimal dependencies,  you only need node and npm installed on your machine. 
