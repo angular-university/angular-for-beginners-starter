@@ -1,7 +1,7 @@
 # Angular For Beginners Playground
 A playground for Getting Started with the Angular framework.
 
-This course repository is updated to Angular 4, there is a Yarn lock file available.
+This course repository is updated to Angular 5, there is a Yarn lock file available.
 
 This playground provides a save-and-refresh-just-works development environment with minimal dependencies and no build running on the background, its ideally suited for beginners just starting with the framework.
 
