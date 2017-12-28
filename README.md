@@ -1,3 +1,17 @@
+
+# Angular For Beginners - Blog Post Series
+
+Here is the ongoing complete Angular for Beginners series:
+
+- [Angular For Beginners Guide - Getting Started (Setup Environment)](https://blog.angular-university.io/getting-started-with-angular-setup-a-development-environment-with-yarn-the-angular-cli-setup-an-ide/)
+
+- [Angular For Beginners Guide: Why Angular? The Top Benefits](https://blog.angular-university.io/why-angular-angular-vs-jquery-a-beginner-friendly-explanation-on-the-advantages-of-angular-and-mvc/) 
+
+- [Angular For Beginners Guide - Components vs Directives](https://blog.angular-university.io/angular-components-and-directives-for-beginners/) 
+
+- [Why a Single Page Application, What are the Benefits? What is a SPA?](https://blog.angular-
+
+
 # Angular For Beginners Playground
 A playground for Getting Started with the Angular framework.
 
@@ -6,7 +20,7 @@ This course repository is updated to Angular 5, there is a Yarn lock file availa
 This playground provides a save-and-refresh-just-works development environment with minimal dependencies and no build running on the background, its ideally suited for beginners just starting with the framework.
 
 
-# Which Course are You Looking For ?
+# Which Course are You Looking For?
 
 If you are looking for the code of the following courses, see further the installation instructions on this page:
 
