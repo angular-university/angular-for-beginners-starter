@@ -9,7 +9,7 @@ Here is the ongoing complete Angular for Beginners series:
 
 - [Angular For Beginners Guide - Components vs Directives](https://blog.angular-university.io/angular-components-and-directives-for-beginners/) 
 
-- [Why a Single Page Application, What are the Benefits? What is a SPA?](https://blog.angular-
+- [Why a Single Page Application, What are the Benefits? What is a SPA?](https://blog.angular-university.io/why-a-single-page-application-what-are-the-benefits-what-is-a-spa/)
 
 
 # Angular For Beginners Playground
