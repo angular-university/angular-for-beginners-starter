@@ -1,7 +1,7 @@
 
 # Angular For Beginners - Blog Post Series
 
-Here is the ongoing complete Angular for Beginners series:
+Here is the Angular for Beginners blog post series, available at our blog:
 
 - [Angular For Beginners Guide - Getting Started (Setup Environment)](https://blog.angular-university.io/getting-started-with-angular-setup-a-development-environment-with-yarn-the-angular-cli-setup-an-ide/)
 
